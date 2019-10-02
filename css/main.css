@@ -1,11 +1,12 @@
 body {
   background-color: #c9b5ab;
+  font-family: 'PT Serif', serif;
   font-family: 'PT Sans', sans-serif;
 }
 
 h1, h2 {
   color: #8f2440;
-  font: font-family: 'PT Sans', 700;
+  font-family:'PT Sans', 700;
 }
 
 h1 {
