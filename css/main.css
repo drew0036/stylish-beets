@@ -27,12 +27,12 @@ ol {
   list-style-type: none;
 }
 
-.tags {
-  list-style-type: circle;
-}
-
 .common {
   list-style-type: lower-greek;
+}
+
+dl {
+  list-style-type: disc;
 }
 
 li a {
@@ -54,8 +54,12 @@ figcaption {
 }
 
 p {
-  color: #222
+  color: #222;
   font-family: 'PT Serif', serif;
+}
+
+strong {
+  font-weight: normal;
 }
 
 blockquote {
