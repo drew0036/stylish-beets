@@ -1,7 +1,6 @@
 body {
   background-color: #c9b5ab;
   line-height: 1.5;
-  font-size: 1.125rem;
 }
 h1, h2 {
   color: #3f1622;
@@ -23,12 +22,21 @@ nav {
   text-decoration: none;
 }
 
-dl > dt {
-  list-style-type: disc;
+.dts {
+  list-style-type: circle;
 }
 
 ol {
   list-style-type: none;
+}
+
+ul li {
+  list-style-type: none;
+  text-align: left;
+}
+
+.serving {
+  font-style: italic;
 }
 
 .common {
