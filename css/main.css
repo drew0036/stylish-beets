@@ -23,16 +23,16 @@ nav {
   text-decoration: none;
 }
 
+dl > dt {
+  list-style-type: disc;
+}
+
 ol {
   list-style-type: none;
 }
 
 .common {
   list-style-type: lower-greek;
-}
-
-dl {
-  list-style-type: disc;
 }
 
 li a {
