@@ -1,11 +1,11 @@
 body {
   background-color: #c9b5ab;
-  font-family: 'PT Serif', serif;
-  font-family: 'PT Sans', sans-serif;
   line-height: 1.5;
+  font-size: 1.125rem;
 }
 h1, h2 {
   color: #3f1622;
+  font-family: 'PT Sans', sans-serif;
 }
 
 h1 {
@@ -13,18 +13,59 @@ h1 {
 }
 
 h2 {
-  font-size: 1.125rem;
+  font-size: 1.5;
 }
 
 nav {
   font-size: 1.125rem;
+  font-family: 'PT Sans', sans-serif;
   color: #8f2440;
+  text-decoration: none;
+}
+
+ol {
+  list-style-type: none;
+}
+
+.tags {
+  list-style-type: circle;
+}
+
+.common {
+  list-style-type: lower-greek;
+}
+
+li a {
+  color: #8f2440;
+  font-style: normal;
+  text-decoration: none;
+}
+
+figcaption {
+  font-family: 'PT Serif', serif;
+  font-style: italic;
+  text-align: center;
+  color: #222;
+
+}
+
+.timeline {
+  font-weight: 700;
 }
 
 p {
-  color: #222222
+  color: #222
+  font-family: 'PT Serif', serif;
+}
+
+blockquote {
+  font-size: 1.5rem
+  font-family: 'PT Serif', serif;
+  font-style: italic;
+
 }
 
 cite {
   font-size: 0.8rem
+  font-family: 'PT Serif', serif;
 }
