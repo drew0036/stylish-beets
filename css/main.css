@@ -1,0 +1,16 @@
+body {
+  background-color: #c9b5ab;
+}
+
+h1, h2 {
+  color: #8f2440;
+  font: font-family: 'PT Sans', sans-serif:700;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1.125rem;
+}
