@@ -1,3 +1,8 @@
+html {
+  font-family: "PT Serif", serif;
+  color: #222;
+}
+
 body {
   background-color: #c9b5ab;
   line-height: 1.5;
@@ -33,7 +38,7 @@ ol {
 }
 
 dl > dt {
-  font-weight: 700;
+  font-weight: bold;
 }
 
 ul li {
@@ -57,6 +62,7 @@ a {
 
 img {
   align-content: center;
+  width: 100%;
 }
 
 figcaption {
@@ -67,12 +73,7 @@ figcaption {
 }
 
 .timeline {
-  font-weight: 700;
-}
-
-p {
-  color: #222;
-  font-family: "PT Serif", serif;
+  font-weight: bold;
 }
 
 strong {
