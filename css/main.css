@@ -28,16 +28,12 @@ a:hover {
   text-decoration: none;
 }
 
-.dts {
-  list-style-type: circle;
-}
-
 ol {
   list-style-type: none;
 }
 
-dt {
-  font-family: "PT Serif", serif;
+dl > dt {
+  font-weight: 700;
 }
 
 ul li {
@@ -72,7 +68,7 @@ figcaption {
 }
 
 .timeline {
-  font-family: "PT Serif", serif;
+  font-weight: 700;
 }
 
 p {
@@ -92,4 +88,5 @@ blockquote {
 
 cite {
   font-family: "PT Serif", serif;
+  font-size: 0.8rem;
 }
