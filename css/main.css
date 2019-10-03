@@ -80,12 +80,12 @@ strong {
 
 blockquote {
   font-size: 1.5rem;
-  font: 'PT Serif', serif;
+  font-family: 'PT Serif', serif;
   font-style: italic;
 }
 
 cite {
-  font-size: 0.8rem
+  font-size: 0.8rem;
   font-family: 'PT Serif', serif;
 }
 
