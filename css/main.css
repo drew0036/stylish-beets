@@ -56,8 +56,7 @@ a {
 }
 
 img {
-  text-align: center;
-  width: 670px;
+  align-content: center;
 }
 
 figcaption {
